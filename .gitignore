@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mocks and Local Data
+mock_s3_bucket/
+mock_dynamodb.json
+*.log
+.DS_Store
